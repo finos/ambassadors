@@ -1,23 +1,23 @@
 ---
-name: {standard name} Meeting Minutes
-about: To track {standard name} meeting agenda and attendance
-title: MMDDYYYY {standard name} Meeting Minutes
+name: FINOS Ambassadors Meeting Minutes
+about: To track FINOS Ambassadors meeting agenda and attendance
+title: MMDDYYYY FINOS Ambassadors Meeting Minutes
 labels: meeting
 assignees: ''
 
 ---
 
 ---
-name: "\U0001F91D{standard name} Meeting Minutes"
-about: To track {standard name} meeting agenda and attendance
-title: MMM DD YYYY - {standard name} Meeting Minutes
-labels: {standard name}, meeting
+name: "\U0001F91DFINOS Ambassadors Meeting Minutes"
+about: To track FINOS Ambassadors meeting agenda and attendance
+title: MMM DD YYYY - FINOS Ambassadors Meeting Minutes
+labels: FINOS Ambassadors, meeting
 assignees: ''
 
 ---
 
-# {standard name} Meeting
-[{standard name} overview, roadmap and background](https://{github}.com/finos/{project slug}/readme.md)
+# FINOS Ambassadors Meeting
+[FINOS Ambassadors overview, roadmap and background](https://github.com/finos/ambassadors/readme.md)
 
 ## Date
 YYYYMMDD - 10am ET / 3pm GMT
@@ -55,9 +55,4 @@ YYYYMMDD - 10am ET / 3pm GMT
 - [ ] Action 2
 - [ ] ...
 
-### WebEx info
-- [WebEx Meeting URL](https://finos.webex.com/finos/j.php?MTID=mf27815a7807f13f1d0974a973196cb4c)
-- Meeting Number: 127 819 0322
-- Join by phone: +1.415.655.0003 USA Toll | +44-20319-88141 UK Toll | Access code: 127 819 0322
-- Password: VXcd2eQgh82
-- [Global call-in numbers](https://finos.webex.com/finos/globalcallin.php?serviceType=MC&ED=582460637&tollFree=0)
+### Zoom info
