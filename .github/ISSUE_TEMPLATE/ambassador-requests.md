@@ -1,5 +1,5 @@
 ---
-name: FINOS Ambassadors Meeting Minutes
+name: FINOS Ambassadors Requests
 about: To track FINOS Ambassadors requests
 title: 
 labels: meeting
