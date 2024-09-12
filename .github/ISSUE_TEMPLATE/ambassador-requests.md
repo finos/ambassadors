@@ -1,8 +1,8 @@
 ---
 name: FINOS Ambassadors Requests
 about: To track FINOS Ambassadors requests
-title: 
-labels: meeting
+labels: request
+Asignee: @eteridvalishvili
 
 ---
 
