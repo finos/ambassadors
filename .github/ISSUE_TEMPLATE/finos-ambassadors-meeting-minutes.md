@@ -3,7 +3,7 @@ name: FINOS Ambassadors Meeting Minutes
 about: To track FINOS Ambassadors meeting agenda and attendance
 title: MMDDYYYY FINOS Ambassadors Meeting Minutes
 labels: meeting
-assignees: ''
+assignees: '@eteridvalishvili'
 
 ---
 
