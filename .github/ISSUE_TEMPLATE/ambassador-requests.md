@@ -2,7 +2,7 @@
 name: FINOS Ambassadors Requests
 about: To track FINOS Ambassadors requests
 labels: request
-Asignee: @eteridvalishvili
+assignee: @eteridvalishvili
 
 ---
 
