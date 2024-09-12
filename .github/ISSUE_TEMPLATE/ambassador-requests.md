@@ -1,8 +1,9 @@
 ---
 name: FINOS Ambassadors Requests
 about: To track FINOS Ambassadors requests
-labels: request
-assignee: eteridvalishvili
+labels: ["Request"]
+assignees:
+  - eteridvalishvili
 
 ---
 
