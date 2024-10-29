@@ -34,18 +34,17 @@ Please ensure that all necessary steps are completed promptly to facilitate a sm
 ---
 
 ## FINOS Resources
-- [FINOS Project Landscape](#)
-- [FINOS Resource Center](#)
-- [FINOS Project Repositories](#)
-- [FINOS Community Calendar](#)
-- [FINOS Mailing List](#)
+- [FINOS Project Landscape](https://landscape.finos.org/)
+- [FINOS Resource Center](https://resources.finos.org/?c=cG9zdDoxNjMx)
+- [FINOS Project Repositories](https://github.com/finos)
+- [FINOS Community Calendar](https://www.finos.org/calendar)
+- [FINOS Mailing List](https://www.finos.org/sign-up)
 
 ## Ambassador Resources
-- [Asana Plan](#)
-- [GitHub Repository](#)
-- [Onboarding Deck](#)
-- [Landing page](#)
-- [Ticket Request Issue](#)
+- [Asana Plan](https://app.asana.com/0/1208002568717441/1208002568717441)
+- [GitHub Repository](https://github.com/finos/ambassadors)
+- [Landing page](https://www.finos.org/ambassador-program#how_to_get_involved)
+- [Ticket Request Issue](https://github.com/finos/ambassadors/issues/new/choose)
 
 ---
 
