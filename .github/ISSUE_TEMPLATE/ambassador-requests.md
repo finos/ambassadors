@@ -7,13 +7,58 @@ assignees:
 
 ---
 
-Marketing
+# FINOS Ambassador Request Template
+
+**Instructions:**  
+Choose one or more of the requests below and provide the requested information. Once submitted, this issue will be automatically assigned to @eteridvalishvili, who will create an Asana task and update this issue as needed.
+
+---
 
 ### Meetup Needs Request
-Rename event name & provide details. If immediate action, please adjust initial review date.
 
-### Social Post Request
-Update initial review date if needed soon. The sub-task that says social post is the date it will go out. Please adjust if a specific date is needed.
+#### Ambassador Checklist
+- **Event Capacity**: [Specify expected number of attendees]
+- **Venue Assistance**: [Indicate if you need help finding a venue]
+- **Event Details**:
+  - **Event Name**: [Provide name of the event]
+  - **Location**: [Specify location or city]
+  - **Date & Time**: [Provide date and time]
+
+#### FINOS Checklist
+- [ ] **Asana Task Created**
+- [ ] **Registration List Created**
+- [ ] **Landing Page Created**
+- [ ] **Social Media Post Scheduled and Shared**
+
+---
+
+### Social Media Post Request
+
+#### Ambassador Checklist
+- **Speaker Information**:
+  - [Provide speaker headshots, names, and titles as applicable]
+- **Event Location**: [Specify event location]
+- **Event Title**: [Provide event title]
+- **CTA (Call to Action)**: [Provide specific CTA for the event]
+
+#### FINOS Update Checklist
+- [ ] **Post Created and Shared on Social Media**
+
+---
 
 ### Blog or Podcast Request
-Update initial review date if needed soon. The sub-task that says social post is the date it will go out. Please adjust if a specific date is needed.
+
+#### Ambassador Checklist
+- **Topic Selection**: [Provide chosen topic]
+- **Blog Post Draft**: [Link to draft or upload file]
+- **Promotion Request**: [Specify if you’d like the post to be promoted on social channels]
+
+#### FINOS Update Checklist
+- [ ] **Initial Review by Marketing Team Completed**
+- [ ] **Blog Post or Podcast Published**: [Link to final post or episode]
+- [ ] **Promotion on Social Channels Completed**
+
+---
+
+**Notes:**  
+For any additional details, please contact Eteri. 
