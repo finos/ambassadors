@@ -22,7 +22,8 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 - Ambassador-only swag package: Enjoy exclusive FINOS merchandise as a token of appreciation.
 - Emeritus status: Have the option for Emeritus status if you need to pause or leave the Ambassador Program temporarily.
 - Free attendance at OSFF: Gain complimentary access to the Open Source in Finance Forum.
-- Access to Ambassador-only FINOS Slack channel and periodic quarterly FINOS Ambassador roundtables: Connect with other Ambassadors for networking and collaboration.
+- Access to Ambassador-only FINOS Slack channel and periodic quarterly
+- FINOS Ambassador roundtables: Connect with other Ambassadors for networking and collaboration.
 - Discount codes for FINOS related trainings: Access training opportunities at discounted rates.
 - Right of first refusal on:
    - Opportunities to speak on Open Source in Finance Podcast
