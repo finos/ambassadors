@@ -42,10 +42,6 @@ If you're interested in becoming an Ambassador or know someone who would be a gr
 
 If you have any questions or suggestions, please [raise an issue](https://{github}.com/finos/ambassadors/issues/new/choose)
 
-## Join the next meeting participants of the FINOS Ambassadors workstream meet... {meeting cadance}.
-
-Find the next meeting on the [FINOS projects calendar](https://finos.org/calendar) and browse [past meeting minutes in GitHub](https://github.com/finos/ambassadors/labels/meeting).
-
 ## Join the mailing list 
 
 Communications for the FINOS Ambassadors project are conducted through the FINOS Ambassadors@lists.finos.org mailing list. Please email [ambassadors@lists.finos.org](mailto:ambassadors@lists.finos.org) to join the mailing list.
@@ -54,4 +50,3 @@ Communications for the FINOS Ambassadors project are conducted through the FINOS
 ## License
 
 This project uses the **Community Specification License 1.0** ; you can read more in the [LICENSE](LICENSE) file.
-
