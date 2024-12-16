@@ -46,6 +46,7 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Sam Moorhouse**             | Founder & CEO, turntabl.io                        |
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
 | **Paula Paul**                | Distinguished Engineer and CTO, Greyshore Associates |
+| **Vinod Goje**                | VP Engineering Manager, Bank of America |
 
 ## How to get involved
 
