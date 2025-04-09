@@ -37,7 +37,6 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Name**                      | **Title & Company**                                |
 |-------------------------------|---------------------------------------------------|
 | **Olivier Poupeney**          | Head Ambassador, Head of Developer Relations, Orkes |
-| **Eddie Knight**              | OSPO Technical Program Manager, Sonatype          |
 | **Peter Smulovics**           | Executive Director, Morgan Stanley                |
 | **Luca Borella**              | Co-founder & CEO, Algoritmica.ai                  |
 | **Mike Minett**               | Growth Partner, turntabl.io                       |
@@ -45,7 +44,6 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Brett Haymaker**            | Senior UI/UX Engineer, Grandview Analytics        |
 | **Sam Moorhouse**             | Founder & CEO, turntabl.io                        |
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
-| **Paula Paul**                | Distinguished Engineer and CTO, Greyshore Associates |
 | **Vinod Goje**                | VP Engineering Manager, Bank of America |
 
 ## How to get involved
