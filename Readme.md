@@ -44,7 +44,11 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Brett Haymaker**            | Senior UI/UX Engineer, Grandview Analytics        |
 | **Sam Moorhouse**             | Founder & CEO, turntabl.io                        |
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
-| **Vinod Goje**                | VP Engineering Manager, Bank of America |
+| **Vinod Goje**                | VP Engineering Manager, Bank of America           |
+| **Neil McGonigle**            |                                                   |
+| **Daniel Paes**               |                                                   |
+| **Lanciné Kone**              |                                                   |
+| **Tiejun Chen**               |                                                   |
 
 ## How to get involved
 
