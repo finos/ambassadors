@@ -1,3 +1,4 @@
+
 # FINOS Ambassadors
 
 <img src=".github/ambassadorlogo.webp" width="100">
@@ -50,6 +51,9 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Lanciné Kone**              |   CIO chez MEGASERVICE                            |
 | **Tiejun Chen**               | Seasoned Tech Lead - {ML/AI, Edge Computing, Cloud Native, Virtualization, RISC-V}                              |
 | **David Rutledge**               | Founder of Ledger Integrations                             |
+| **Elisha Chitsenga**        | Accountant, Auditor & Founding Director, Crestly Resorts                                           |
+| **Junji Katto**             | Head of Risk and InfoSec, Carbonplace UK Limited   
+| **Dr Gulzar Singh**         |                                                                      |
 
 
 ## How to get involved
