@@ -59,6 +59,23 @@ Choose one or more of the requests below and provide the requested information. 
 - [ ] **Promotion on Social Channels Completed**
 
 ---
+### Activity Completion Notification
+
+Use this section to let us know when you’ve completed an event, activity, or deliverable so we can share it on marketing channels and update the Ambassador landing page.
+
+#### Ambassador Checklist
+- **Activity Type**: [e.g., Meetup, Talk, Blog Post]
+- **Activity Title**: [Provide title or description]
+- **Date Completed**: [Provide date]
+- **Link to Recording or Materials** (if applicable): [Add link]
+- **Any Notes for Marketing**: [Add any special instructions or highlights]
+
+#### FINOS Update Checklist
+- [ ] **Activity Verified**
+- [ ] **Landing Page Updated**
+- [ ] **Promotion on Social Channels Completed**
+
+---
 
 **Notes:**  
 For any additional details, please contact Eteri. 
