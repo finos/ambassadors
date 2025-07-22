@@ -52,7 +52,8 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **David Rutledge**               | Founder of Ledger Integrations                             |
 | **Elisha Chitsenga**        | Accountant, Auditor & Founding Director, Crestly Resorts                                           |
 | **Junji Katto**             | Head of Risk and InfoSec, Carbonplace UK Limited   
-| **Dr Gulzar Singh**         |                                                                      |
+| **Dr Gulzar Singh**         |   Senior Fellow, Banking & Digital Strategy                                                                   |
+| **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley                                                                     |
 
 
 ## How to get involved
