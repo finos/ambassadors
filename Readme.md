@@ -54,6 +54,8 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Junji Katto**             | Head of Risk and InfoSec, Carbonplace UK Limited   
 | **Dr Gulzar Singh**         |   Senior Fellow, Banking & Digital Strategy                                                                   |
 | **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley                                                                     |
+| **Ali Nawaz**    | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad                       |
+
 
 
 ## How to get involved
