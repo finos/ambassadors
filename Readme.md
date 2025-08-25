@@ -56,6 +56,10 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley                                                                     |
 | **Ali Nawaz**    | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad                       |
 
+## Ambassador Map
+
+
+![World map warm up](https://github.com/user-attachments/assets/83d346f4-2e39-42b6-9afe-81f2db1a0538)
 
 
 ## How to get involved
