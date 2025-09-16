@@ -41,7 +41,6 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Peter Smulovics**           | Executive Director, Morgan Stanley                |
 | **Luca Borella**              | Co-founder & CEO, Algoritmica.ai                  |
 | **Mike Minett**               | Growth Partner, turntabl.io                       |
-| **Cody Zuschlag**             | Senior Developer Relations Engineer, Nearform     |
 | **Sam Moorhouse**             | Founder & CEO, turntabl.io                        |
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
 | **Vinod Goje**                | VP Engineering Manager, Bank of America           |
