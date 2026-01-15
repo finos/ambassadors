@@ -49,10 +49,11 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Tiejun Chen**               | Seasoned Tech Lead - {ML/AI, Edge Computing, Cloud Native, Virtualization, RISC-V}                              |
 | **Elisha Chitsenga**        | Accountant, Auditor & Founding Director, Crestly Resorts                                           |
 | **Junji Katto**             | Head of Risk and InfoSec, Carbonplace UK Limited   
-| **Dr Gulzar Singh**         |   Senior Fellow, Banking & Digital Strategy                                                                   |
+| **Dr Gulzar Singh**         |   Chartered Fellow – Banking & Technology | UK Global Talent                                                                   |
 | **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley                                                                     |
 | **Ali Nawaz**    | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad                       |
 | **Mahesh Adulla**    | Frontier Technologies - Strategy | Transformation ( Cloud, Data, AI / ML, Generative AI ) Initiatives Ex-JPMC | Ex-Goldman Sachs | Ex-TCS                      |
+| **Aditya Vikram Kashyap**  | Vice President, Firmwide Innovation Morgan Stanley|
 
 ## Ambassador Map
 
