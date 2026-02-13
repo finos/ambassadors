@@ -58,7 +58,7 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 ## Ambassador Map
 
 
-![World map warm up](https://github.com/user-attachments/assets/83d346f4-2e39-42b6-9afe-81f2db1a0538)
+![World map warm up](https://github.com/user-attachments/assets/f506a82c-2e60-40c1-873c-ec63eb8a5ba9)
 
 
 ## How to get involved
