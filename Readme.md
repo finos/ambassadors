@@ -54,6 +54,7 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Ali Nawaz**    | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad                       |
 | **Mahesh Adulla**    | Frontier Technologies - Strategy | Transformation ( Cloud, Data, AI / ML, Generative AI ) Initiatives Ex-JPMC | Ex-Goldman Sachs | Ex-TCS                      |
 | **Aditya Vikram Kashyap**  | Vice President, Firmwide Innovation Morgan Stanley|
+| **Lakshmi Narayana Segu**  | Enterprise Data/AI Architect | Data Governance, LLMs, AgentsI am accountable for turning data and AI into regulated, trusted, and monetizable enterprise assets|
 
 ## Ambassador Map
 
