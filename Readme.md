@@ -37,7 +37,7 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 
 | **Name**                      | **Title & Company**                                |
 |-------------------------------|---------------------------------------------------|
-| **Olivier Poupeney**          | Head Ambassador, Head of Developer Relations, Orkes |
+| **Olivier Poupeney**          | Head Ambassador, Field CTO, FINOS |
 | **Peter Smulovics**           | Executive Director, Morgan Stanley                |
 | **Luca Borella**              | Co-founder & CEO, Algoritmica.ai                  |
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
