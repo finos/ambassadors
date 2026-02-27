@@ -64,7 +64,7 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 
 ## How to get involved
 
-To join the FINOS Ambassador Program, overseen by Lead Ambassador Olivier Poupeney, Head of Developer Relations at Orkes, individuals are selected for their deep understanding of the FINOS community, its members, and the project landscape. Ambassadors typically focus on specific regions, projects, technology areas (like AI or Cloud), or aspects of financial services (such as pre-trade, post-trade, ESG, Payments, or Retails). 
+To join the FINOS Ambassador Program, overseen by Lead Ambassador Olivier Poupeney, Field CTO at FINOS, individuals are selected for their deep understanding of the FINOS community, its members, and the project landscape. Ambassadors typically focus on specific regions, projects, technology areas (like AI or Cloud), or aspects of financial services (such as pre-trade, post-trade, ESG, Payments, or Retails). 
 
 If you're interested in becoming an Ambassador or know someone who would be a great fit, please fill out the interest form below on the [FINOS Ambassador landing page](https://www.finos.org/ambassador-program#how_to_get_involved).
 
@@ -74,7 +74,7 @@ If you have any questions or suggestions, please [raise an issue](https://{githu
 
 ## Join the mailing list 
 
-Communications for the FINOS Ambassadors project are conducted through the FINOS Ambassadors@lists.finos.org mailing list. Please email [ambassadors@lists.finos.org](mailto:ambassadors@lists.finos.org) to join the mailing list.
+Communications for the FINOS Ambassadors project are conducted through the FINOS Ambassadors@lists.finos.org mailing list. Please email [ambassadors@lists.finos.org](mailto:ambassadors@lists.finos.org) to contact the ambassadors.
 
 
 ## License
