@@ -43,7 +43,6 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
 | **Vinod Goje**                | VP Engineering Manager, Bank of America           |
 | **Neil McGonigle**            | Key Account Director MySQL Global Business Unit   |
-| **Daniel Paes**               | Director of CloudOps & DataOps                    |
 | **Lanciné Kone**              |   CIO chez MEGASERVICE                            |
 | **Pedro Andrade**              |   MySQL Lead for Financial Services at Oracle                            |
 | **Elisha Chitsenga**        | Accountant, Auditor & Founding Director, Crestly Resorts                                           |
