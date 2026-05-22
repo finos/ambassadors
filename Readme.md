@@ -59,9 +59,11 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
   
 ## Ambassador Map
 
+Click the map preview below to explore our interactive ambassador map, unfold regional ambassador hubs, and connect with our team directly on LinkedIn:
 
-![World map warm up](https://github.com/user-attachments/assets/c33a1068-26c7-4e73-8380-3d05986e9883)
+[![FINOS Ambassador Global Map](https://github.com/user-attachments/assets/bd638b5e-4a2d-42e5-842c-200b91f125ba)](https://www.finos.org/ambassador-program)
 
+[Explore the Interactive Ambassador Map on finos.org](https://www.finos.org/ambassador-program)
 
 ## How to get involved
 
