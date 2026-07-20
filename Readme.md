@@ -56,7 +56,9 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Francesco Beltramini**     | Field CTO, ControlPlane                           |
 | **Syed  Fahad**              | Developer Relations Engineer, BetterBugs           |
 | **Susan Haimet**             | Founder, Saavvy AI                                 | 
-  
+| **Alex Campos**                  | Senior Solutions Engineer, Southern EMEA & LATAM Ververica | 
+| **Sai Sravan Cherukuri**                  | IT Program Manager, IRS | 
+
 ## Ambassador Map
 
 Click the map preview below to explore our interactive ambassador map, unfold regional ambassador hubs, and connect with our team directly on LinkedIn:
