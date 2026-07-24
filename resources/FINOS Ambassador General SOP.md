@@ -41,10 +41,11 @@ Please ensure that all necessary steps are completed promptly to facilitate a sm
 - [FINOS Mailing List](https://www.finos.org/sign-up)
 
 ## Ambassador Resources
-- [Asana Plan](https://app.asana.com/0/1208002568717441/1208002568717441)
+- [Asana Plan]
 - [GitHub Repository](https://github.com/finos/ambassadors)
 - [Landing page](https://www.finos.org/ambassador-program#how_to_get_involved)
 - [Ticket Request Issue](https://github.com/finos/ambassadors/issues/new/choose)
+- [FINOS Ambassador Mailing List](https://lists.finos.org/g/ambassadors)
 
 ---
 
