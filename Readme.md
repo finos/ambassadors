@@ -58,12 +58,14 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Susan Haimet**             | Founder, Saavvy AI                                 | 
 | **Alex Campos**                  | Senior Solutions Engineer, Southern EMEA & LATAM Ververica | 
 | **Sai Sravan Cherukuri**                  | IT Program Manager, IRS | 
+| **Shun Tanai**                  | Associate Principal Solution Architect, Red Hat| 
 
 ## Ambassador Map
 
 Click the map preview below to explore our interactive ambassador map, unfold regional ambassador hubs, and connect with our team directly on LinkedIn:
 
-[![FINOS Ambassador Global Map](https://github.com/user-attachments/assets/bd638b5e-4a2d-42e5-842c-200b91f125ba)](https://www.finos.org/ambassador-program)
+[![FINOS Ambassador Global Map](https://github.com/user-attachments/assets/e6ae65f8-a295-4914-8fbc-4664f389e300)](https://www.finos.org/ambassador-program)
+
 
 [Explore the Interactive Ambassador Map on finos.org](https://www.finos.org/ambassador-program)
 
