@@ -51,14 +51,14 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley |
 | **Ali Nawaz**                | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad|
 | **Mahesh Adulla**            | Frontier Technologies - Strategy | Transformation ( Cloud, Data, AI / ML, Generative AI ) Initiatives Ex-JPMC | Ex-Goldman Sachs | Ex-TCS                       |
-| **Aditya Vikram Kashyap**  | Vice President, Firmwide Innovation Morgan Stanley|
+| **Aditya Vikram Kashyap**  | Vice President, Firmwide Innovation Morgan Stanley     |
 | **Lakshmi Narayana Segu**  | Enterprise Data/AI Architect | Data Governance, LLMs, AgentsI am accountable for turning data and AI into regulated, trusted, and monetizable enterprise assets|
-| **Francesco Beltramini**     | Field CTO, ControlPlane                           |
-| **Syed  Fahad**              | Developer Relations Engineer, BetterBugs           |
-| **Susan Haimet**             | Founder, Saavvy AI                                 | 
-| **Alex Campos**                  | Senior Solutions Engineer, Southern EMEA & LATAM Ververica | 
-| **Sai Sravan Cherukuri**                  | IT Program Manager, IRS | 
-| **Shun Tanai**                  | Associate Principal Solution Architect, Red Hat| 
+| **Francesco Beltramini**     | Field CTO, ControlPlane                              |
+| **Syed  Fahad**              | Developer Relations Engineer, BetterBugs             |
+| **Susan Haimet**             | Founder, Saavvy AI                                   | 
+| **Alex Campos**              | Senior Solutions Engineer, Southern EMEA & LATAM Ververica | 
+| **Sai Sravan Cherukuri**        | IT Program Manager, IRS                              |  
+| **Shun Tanai**               | Associate Principal Solution Architect, Red Hat      | 
 
 ## Ambassador Map
 
