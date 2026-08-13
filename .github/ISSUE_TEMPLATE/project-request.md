@@ -49,4 +49,4 @@ For FINOS project maintainers and working group leads to request ambassador volu
 
 - 
 
-### Ambassador: interested? Comment below and tag the requester. 
+@ambassador-participants : interested? Comment below and tag the requester. 
