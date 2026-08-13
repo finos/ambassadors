@@ -43,10 +43,9 @@ email the FINOS team.
 ### Have you already posted about it?
 
 - If yes, paste the link and we will repost rather than write something new. 
-
-- [ ] Yes, on LinkedIn - link below
-- [ ] Yes, elsewhere - link below
-- [ ] Not yet
+  - [ ] Yes, on LinkedIn - link below
+  - [ ] Yes, elsewhere - link below
+  - [ ] Not yet
 
 Link:
 
