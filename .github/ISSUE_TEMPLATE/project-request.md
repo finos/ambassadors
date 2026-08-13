@@ -2,7 +2,7 @@
 name: Project request for ambassador help
 about: Maintainers - ask ambassadors for help with your project
 title: "[Project request] <what you need>"
-labels: Request, help-wanted, project-request
+labels: Request, help wanted, project request
 ---
 
 For FINOS project maintainers and working group leads to request ambassador volunteers.
