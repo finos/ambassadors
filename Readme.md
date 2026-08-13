@@ -79,6 +79,21 @@ If you're interested in becoming an Ambassador or know someone who would be a gr
 
 If you have any questions or suggestions, please [raise an issue](https://{github}.com/finos/ambassadors/issues/new/choose)
 
+### Requesting ambassador support
+
+**Maintainers and working group leads** can open a [project request](https://github.com/finos/ambassadors/issues/new/choose) for things like:
+
+- A speaker for a project call, meetup, or webinar
+- A blog post about a release, feature, or adoption story
+- A case study from a firm using your project
+- Someone to represent the project at a conference or booth
+- A podcast guest, or help promoting an announcement
+- An introduction to a firm, region, or community
+
+Requests are labelled `help wanted`. Ambassadors volunteer by commenting on the issue, and open requests are reviewed at the monthly ambassador call.
+
+**Ambassadors:** browse the [open requests](https://github.com/finos/ambassadors/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22) and comment to claim one.
+
 ## Join the mailing list 
 
 Communications for the FINOS Ambassadors project are conducted through the FINOS Ambassadors@lists.finos.org mailing list. Please email [ambassadors@lists.finos.org](mailto:ambassadors@lists.finos.org) to contact the ambassadors.
