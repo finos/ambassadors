@@ -32,33 +32,35 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
    - OSFF (London / NY)
    - Creating training assets such as testing new exams or creating questions.
    - These benefits enhance your experience as an Ambassador and provide valuable opportunities for networking, professional development, and recognition within the FINOS community.
- 
-## Meet Our Ambassadors  
 
-| **Name**                      | **Title & Company**                                |
-|-------------------------------|---------------------------------------------------|
-| **Olivier Poupeney**          | Head Ambassador, Field CTO, FINOS |
-| **Peter Smulovics**           | Executive Director, Morgan Stanley                |
-| **Luca Borella**              | Co-founder & CEO, Algoritmica.ai                  |
-| **Brittany Erica Istenes**    | OSPO Strategist, Fannie Mae                       |
-| **Vinod Goje**                | VP Engineering Manager, Bank of America           |
-| **Neil McGonigle**            | Key Account Director MySQL Global Business Unit   |
-| **Lanciné Kone**              |   CIO chez MEGASERVICE                            |
-| **Pedro Andrade**             |   MySQL Lead for Financial Services at Oracle            |
-| **Elisha Chitsenga**          | Accountant, Auditor & Founding Director, Crestly Resorts |
-| **Junji Katto**               | Head of Risk and InfoSec, Carbonplace UK Limited  |
-| **Dr Gulzar Singh**           | Chartered Fellow – Banking & Technology | UK Global Talent |
-| **Khalid Elsawaf**  | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley |
-| **Ali Nawaz**                | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad|
-| **Mahesh Adulla**            | Frontier Technologies - Strategy | Transformation ( Cloud, Data, AI / ML, Generative AI ) Initiatives Ex-JPMC | Ex-Goldman Sachs | Ex-TCS                       |
-| **Aditya Vikram Kashyap**  | Vice President, Firmwide Innovation Morgan Stanley     |
-| **Lakshmi Narayana Segu**  | Enterprise Data/AI Architect | Data Governance, LLMs, AgentsI am accountable for turning data and AI into regulated, trusted, and monetizable enterprise assets|
-| **Francesco Beltramini**     | Field CTO, ControlPlane                              |
-| **Syed  Fahad**              | Developer Relations Engineer, BetterBugs             |
-| **Susan Haimet**             | Founder, Saavvy AI                                   | 
-| **Alex Campos**              | Senior Solutions Engineer, Southern EMEA & LATAM Ververica | 
-| **Sai Sravan Cherukuri**        | IT Program Manager, IRS                              |  
-| **Shun Tanai**               | Associate Principal Solution Architect, Red Hat      | 
+## Meet Our Ambassadors
+
+| **Name** | **Title & Company** |
+|---|---|
+| **Olivier Poupeney** | Head Ambassador, Field CTO, FINOS |
+| **Pedro Andrade** | MySQL Lead for Financial Services at Oracle |
+| **Luca Borella** | Co-founder & CEO, Algoritmica.ai |
+| **Brittany Erica Istenes** | OSPO Strategist, Fannie Mae |
+| **Elisha Chitsenga** | Accountant, Auditor & Founding Director, Crestly Resorts |
+| **Khalid Elsawaf** | Secured Financing Tech (SFT) Post-Trade Lead Architect and Prime Brokerage & Secured Financing Tech (PBSFT) Montreal Lead, Morgan Stanley |
+| **Vinod Goje** | VP Engineering Manager, Bank of America |
+| **Dr. Gulzar Singh** | Chartered Fellow – Banking & Technology, UK Global Talent |
+| **Junji Katto** | Head of Risk and InfoSec, Carbonplace UK Limited |
+| **Lanciné Kone** | CEO, Delivering Innovative Solutions (DIS) |
+| **Neil McGonigle** | Architecture & Engineering \| Chapter Leader, Fidelity |
+| **Mahesh Adulla** | Frontier Technologies - Strategy \| Transformation \| Cloud, Data, AI / ML, Generative AI \| Initiatives Ex-JPMC \| Ex-Goldman Sachs \| Ex-TCS |
+| **Peter Smulovics** | Executive Director, Morgan Stanley |
+| **Ali Nawaz** | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad |
+| **Daniel Paes** | Technical Founder and Head of Data and AI Projects, RUNINK |
+| **Aditya Vikram Kashyap** | Vice President, Firmwide Innovation, Morgan Stanley |
+| **Lakshmi Narayana Segu** | Enterprise Data/AI Architect, Wolters Kluwer |
+| **Fahad Syed** | Developer Relations Engineer, BetterBugs |
+| **Susan Haimet** | Founder, Savvy AI |
+| **Francesco Beltramini** | Field CTO, ControlPlane |
+| **Alex Campos** | Senior Solutions Engineer - Southern EMEA & LATAM, Ververica |
+| **Sai Sravan Cherukuri** | IT Program Manager, IRS |
+| **Kumar Chinnakali** | Hands-on Architect, Capgemini |
+| **Shun Tanai** | Associate Principal Solution Architect, Red Hat |
 
 ## Ambassador Map
 
