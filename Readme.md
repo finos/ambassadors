@@ -50,17 +50,20 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Neil McGonigle** | Architecture & Engineering \| Chapter Leader, Fidelity |
 | **Mahesh Adulla** | Frontier Technologies - Strategy \| Transformation \| Cloud, Data, AI / ML, Generative AI \| Initiatives Ex-JPMC \| Ex-Goldman Sachs \| Ex-TCS |
 | **Peter Smulovics** | Executive Director, Morgan Stanley |
-| **Ali Nawaz** | Grandmaster in Google’s ML Campaigns and Community Organizer at TensorFlow User Group Islamabad |
+| **Ali Nawaz** | Grandmaster in Google's ML Campaigns and Community Organizer at TensorFlow User Group Islamabad |
 | **Daniel Paes** | Technical Founder and Head of Data and AI Projects, RUNINK |
 | **Aditya Vikram Kashyap** | Vice President, Firmwide Innovation, Morgan Stanley |
 | **Lakshmi Narayana Segu** | Enterprise Data/AI Architect, Wolters Kluwer |
 | **Fahad Syed** | Developer Relations Engineer, BetterBugs |
-| **Susan Haimet** | Founder, Savvy AI |
+| **Susan Haimet** | Founder, Saavvy AI |
 | **Francesco Beltramini** | Field CTO, ControlPlane |
 | **Alex Campos** | Senior Solutions Engineer - Southern EMEA & LATAM, Ververica |
 | **Sai Sravan Cherukuri** | IT Program Manager, IRS |
 | **Kumar Chinnakali** | Hands-on Architect, Capgemini |
 | **Shun Tanai** | Associate Principal Solution Architect, Red Hat |
+| **Ricardo Amarilla** | Senior Solutions Architect, GitLab |
+| **Hiroto Ebara** | Senior Researcher, Hitachi, Ltd |
+| **Steven Tebbe** | Lecturer, Executive MBA, HEG School of Management, Fribourg |
 
 ## Ambassador Map
 
