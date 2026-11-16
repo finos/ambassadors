@@ -64,12 +64,13 @@ Participating in the FINOS Ambassador Program offers a range of valuable benefit
 | **Ricardo Amarilla** | Senior Solutions Architect, GitLab |
 | **Hiroto Ebara** | Senior Researcher, Hitachi, Ltd |
 | **Steven Tebbe** | Lecturer, Executive MBA, HEG School of Management, Fribourg |
+| **Juan Andrés Antoniuk** | Legacy Modernization & Open-Source Tooling Consultant |
 
 ## Ambassador Map
 
 Click the map preview below to explore our interactive ambassador map, unfold regional ambassador hubs, and connect with our team directly on LinkedIn:
 
-[![FINOS Ambassador Global Map](https://github.com/user-attachments/assets/16ab2378-0e42-466c-bef5-74afa5339d64)](https://www.finos.org/ambassador-program)
+[![FINOS Ambassador Global Map](https://github.com/user-attachments/assets/aa734820-5c96-444a-97e5-df164d2d7932)](https://www.finos.org/ambassador-program)
 
 [Explore the Interactive Ambassador Map on finos.org](https://www.finos.org/ambassador-program)
 
